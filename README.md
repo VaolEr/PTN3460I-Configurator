@@ -13,7 +13,9 @@ A screenshot of the Board is shown below.
 
 <details>
 <summary> View of designed PCB</summary><br />
+
 ![alt text](screenshots/DP-eDP-to-LVDS-board.png "View of designed PCB.")
+
 </details>
 
 The Board provides the following operating modes:
