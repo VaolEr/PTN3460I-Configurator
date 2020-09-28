@@ -11,7 +11,10 @@ Since there is a need to use the above chip from NXP with
 using various matrices, I developed a printed circuit Board on my own to conduct the necessary tests.
 A screenshot of the Board is shown below.
 
+<details>
+<summary> View of designed PCB</summary><br />
 ![alt text](screenshots/DP-eDP-to-LVDS-board.png "View of designed PCB.")
+</details>
 
 The Board provides the following operating modes:
 1. Manual configuration, by setting the jumpers to the "high" or "low" state;
