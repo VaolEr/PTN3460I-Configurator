@@ -19,7 +19,7 @@ The Board provides the following operating modes:
 6. You Can use it to enable or disable the matrix.
 
 More details can be found in the video at the link [MyVideo].
-[MyVideo]: //https://youtu.be/_daPMuKV2iI "Demonstration video"
+[MyVideo]: //https://youtu.be/_daPMuKV2iI/ "Demonstration video"
 
 
 This Board has an STM32 controller installed (firmware for it via the link), which is used as
