@@ -1,8 +1,11 @@
 # PTN3460I-Configurator
-Readme in progress...
 
-This software is part of a project developed by
-for testing various matrices for compatibility with the PTN3460/I chip.
+### Readme in progress...
+
+This software is part of a project developed 
+for testing various LCD matrices for compatibility with the NXP [PTN3460/I] chip.
+
+[PTN3460/I]: //https://www.nxp.com/products/peripherals-and-logic/signal-chain/bridges/ptn3460-ptn3460i-commercial-and-industrial-edp-to-lvds-bridge-ic:PTN3460/ "PTN 3460/I link"
 
 Since there is a need to use the above chip from NXP with
 using various matrices, I developed a printed circuit Board on my own to conduct the necessary tests.
@@ -18,8 +21,9 @@ The Board provides the following operating modes:
 5. You can use it to control the illumination brightness of the matrix under test;
 6. You Can use it to enable or disable the matrix.
 
-More details can be found in the video at the link [MyVideo].
-[MyVideo]: //https://youtu.be/_daPMuKV2iI/ "Demonstration video"
+More details can be found in the video at the [link].
+
+[link]: //https://youtu.be/_daPMuKV2iI/ "Demonstration video"
 
 
 This Board has an STM32 controller installed (firmware for it via the link), which is used as
