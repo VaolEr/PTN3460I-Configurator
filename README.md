@@ -26,7 +26,7 @@ The Board provides the following operating modes:
 5. You can use it to control the illumination brightness of the matrix under test;
 6. You Can use it to enable or disable the matrix.
 
-More details can be found in the video at the [link].
+### More details can be found in the video at the [link].
 
 [link]: //https://youtu.be/_daPMuKV2iI/ "Demonstration video"
 
