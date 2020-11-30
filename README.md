@@ -28,7 +28,7 @@ The Board provides the following operating modes:
 
 ### More details can be found in the video at the [link].
 
-[link]: //https://youtu.be/_daPMuKV2iI/ "Demonstration video"
+[link]: https://youtu.be/_daPMuKV2iI/ "Demonstration video"
 
 
 This Board has an STM32 controller installed (firmware for it via the link), which is used as
